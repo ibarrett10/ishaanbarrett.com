@@ -8,13 +8,22 @@ title: About
     <img src="{{ '/assets/images/Barrett_Ishaan.jpg' | relative_url }}" alt="Ishaan Barrett" class="headshot">
     <div class="sidebar-name">Ishaan Barrett</div>
     <div class="sidebar-categories">
-      <span>Public Policy & Government</span>
-      <span>Urban Affairs & Architecture</span>
+      <span>Public Policy &amp; Government</span>
+      <span>Urban Affairs &amp; Architecture</span>
     </div>
     <div class="sidebar-divider"></div>
     <div class="sidebar-links">
+      <a href="#" id="email-link">Email</a>
       <a href="http://linkedin.com/in/ishaan-barrett" target="_blank" rel="noopener">LinkedIn</a>
     </div>
+    <script>
+      (function(){
+        var u = 'ishaanbarrett';
+        var d = 'outlook.com';
+        var e = document.getElementById('email-link');
+        e.href = 'mailto:' + u + '@' + d;
+      })();
+    </script>
   </div>
 
   <div class="about-content">
