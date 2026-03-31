@@ -68,7 +68,7 @@ magazine_articles:
     status: forthcoming
     authors: "Ishaan Barrett"
 
-  - title: "The Limits of Public Duty"
+  - title: "The Limits of Public Duty and the Architecture of Emergency"
     journal: "Pidgin"
     venue: "Princeton University School of Architecture"
     issue: "34, Spring 2026"
@@ -123,13 +123,13 @@ policy:
     venue: "The Immigration and Human Rights Practice at the Urban Equity Institute"
     date: "February 14, 2025"
     authors: "Ishaan Barrett"
-    url: "https://www.urbanequityinstitute.org/the-laken-riley-act-s-5-policy-analysis/"
+    url: "https://urbanequityinstitute.org/our-work/the-laken-riley-act-s5-policy-analysis"
 
   - title: "Immigration Executive Order Analysis Database"
     venue: "The Immigration and Human Rights Practice at the Urban Equity Institute"
     date: "February 4, 2025"
     authors: "Ishaan Barrett"
-    url: "https://www.urbanequityinstitute.org/immigration-executive-order-analysis-database/"
+    url: "https://urbanequityinstitute.org/our-work/immigration-executive-order-analysis-database"
 
   - title: "Eminent Domain Reform: Addressing Systemic Failures and Historical Exclusion in Urban Land Disputes"
     journal: "Columbia Political Journal"
