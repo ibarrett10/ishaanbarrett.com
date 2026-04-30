@@ -119,18 +119,6 @@ policy:
     authors: "Ishaan Barrett"
     url: "https://www.columbiapolicyinstitute.org/past-issues/cpj2425"
 
-  - title: "Analyzing S.5 – The Laken Riley Act"
-    venue: "The Immigration and Human Rights Practice at the Urban Equity Institute"
-    date: "February 14, 2025"
-    authors: "Ishaan Barrett"
-    url: "https://urbanequityinstitute.org/our-work/the-laken-riley-act-s5-policy-analysis"
-
-  - title: "Immigration Executive Order Analysis Database"
-    venue: "The Immigration and Human Rights Practice at the Urban Equity Institute"
-    date: "February 4, 2025"
-    authors: "Ishaan Barrett"
-    url: "https://urbanequityinstitute.org/our-work/immigration-executive-order-analysis-database"
-
   - title: "Eminent Domain Reform: Addressing Systemic Failures and Historical Exclusion in Urban Land Disputes"
     journal: "Columbia Political Journal"
     issue: "April 2024, 27–29"
@@ -139,7 +127,7 @@ policy:
 
 political_commentary:
   - title: "Trump, Iran, and the Death of Political Promise"
-    publication: "Columbia Political Review Online"
+    publication: "Columbia Political Review Magazine"
     date: "March 4, 2026"
     url: "https://www.cpreview.org/articles/2026/3/yxovzavomv2aybw98k3erl08e6c180"
     
